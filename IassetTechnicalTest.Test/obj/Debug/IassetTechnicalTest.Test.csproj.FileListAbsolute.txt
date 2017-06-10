@@ -1,0 +1,6 @@
+C:\IASSET\IassetTechnicalTest\IassetTechnicalTest\IassetTechnicalTest.Test\bin\Debug\IassetTechnicalTest.Test.dll
+C:\IASSET\IassetTechnicalTest\IassetTechnicalTest\IassetTechnicalTest.Test\bin\Debug\IassetTechnicalTest.Test.pdb
+C:\IASSET\IassetTechnicalTest\IassetTechnicalTest\IassetTechnicalTest.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\IASSET\IassetTechnicalTest\IassetTechnicalTest\IassetTechnicalTest.Test\obj\Debug\IassetTechnicalTest.Test.csprojResolveAssemblyReference.cache
+C:\IASSET\IassetTechnicalTest\IassetTechnicalTest\IassetTechnicalTest.Test\obj\Debug\IassetTechnicalTest.Test.dll
+C:\IASSET\IassetTechnicalTest\IassetTechnicalTest\IassetTechnicalTest.Test\obj\Debug\IassetTechnicalTest.Test.pdb

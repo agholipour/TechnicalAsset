@@ -1,0 +1,10 @@
+﻿body {
+    
+}
+div.body {
+    font-family: Oswald, sans-serif !important;
+    font-size: 15px;
+    font-weight: 100;
+    background: #505050;
+    color: white;
+}
